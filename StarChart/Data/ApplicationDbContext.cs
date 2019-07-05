@@ -6,6 +6,11 @@ namespace StarChart.Data
     {
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
+
         }
+
+
+
+
     }
 }
